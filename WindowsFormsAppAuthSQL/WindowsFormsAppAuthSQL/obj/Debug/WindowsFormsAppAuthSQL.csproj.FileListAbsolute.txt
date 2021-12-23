@@ -1,0 +1,12 @@
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\bin\Debug\WindowsFormsAppAuthSQL.exe.config
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\bin\Debug\WindowsFormsAppAuthSQL.exe
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\bin\Debug\WindowsFormsAppAuthSQL.pdb
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.csproj.AssemblyReference.cache
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.AuthForm.resources
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.Main_Form.resources
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.Properties.Resources.resources
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.csproj.GenerateResource.cache
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.csproj.CoreCompileInputs.cache
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.exe
+C:\Users\tansh\Desktop\WindowsFormsAppAuthSQL\WindowsFormsAppAuthSQL\obj\Debug\WindowsFormsAppAuthSQL.pdb
